@@ -1,0 +1,16 @@
+Fazer uma pesquisa sobre um determinado tema (livre escolha)
+• Possuir um menu funcional
+• Utilizar funções e as boas práticas estabelecidas
+• Armazenar em arquivo o histórico de todas as respostas
+• Armazenar em um segundo arquivo os totalizadores das respostas
+(resumo, quantidade de cada uma)
+• Exibir histórico das respostas e os totalizadores quando solicitado
+(menu)
+
+============= Competição de Programação BSI-2022 =============
+[ 1 ] - Adicionar equipe
+[ 2 ] - Histórico de arquivos
+[ 3 ] - Listar equipes com 1 pessoa
+[ 4 ] - Listar equipes com 2 pessoas
+[ 5 ] - Listar equipes com 3 pessoas
+[ 6 ] - Sair
